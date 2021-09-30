@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Prof. Tang's Research Lab
-description: Explores Water and Wastewater at Indiana University of Pensylvania
+description: Explores Water and Wastewater
 github_username: waterprofessor
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "web"
@@ -39,7 +39,7 @@ baseurl: "/web" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: 
+    twitter: wwttec
     github: waterprofessor
 
 # Set this to true to get LaTeX math equation support
