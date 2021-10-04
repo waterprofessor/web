@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+![Prof. Tang](https://cpb-us-w2.wpmucdn.com/iblog.iup.edu/dist/9/311/files/2016/08/Hao_Tang-19zjb2e.jpg){: height=100 style="float:right; padding:16px"}
 ## Research
 ### Water and Wastewater Engineering
 With 20+ years of training and practical experience on experimental chemistry and web-lab explorations of enhanced processes for water and wastewater engineering, I have developed research interests and publication records in the following fields of water and wastewater engineering: 
