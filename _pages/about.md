@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+## Research
 
+## Teaching
 
+## Group
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+## More Information
+- Google Scholar
+- ORCID
+- Github
+- Twitter
+{% twitter https://twitter.com/wwttec/status %}
