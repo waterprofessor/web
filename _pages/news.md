@@ -4,8 +4,6 @@ title: News
 permalink: /news/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+# 2021
+- Effective Fall 2021, my webiste has been migrated to Github. To read the archives of old website, visit [http://iblog.iup.edu/htang](http://iblog.iup.edu/htang). 
+- Effective Fall 2021, I was promoted to Associate Professor with Tenure at Indiana University of Pennsylvania.

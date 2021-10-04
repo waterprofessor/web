@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Prof. Tang](https://cpb-us-w2.wpmucdn.com/iblog.iup.edu/dist/9/311/files/2016/08/Hao_Tang-19zjb2e.jpg){: height=100 style="float:right; padding:16px"}
+![Prof. Tang](/images/tang.jpg){: height=100 style="float:right; padding:16px"}
 ## Research
 ### Water and Wastewater Engineering
 With 20+ years of training and practical experience on experimental chemistry and web-lab explorations of enhanced processes for water and wastewater engineering, I have developed research interests and publication records in the following fields of water and wastewater engineering: 
@@ -43,7 +43,7 @@ I always welcome motivated, curious, and diligent students of different academic
 - Github: [https://github.com/waterprofessor](https://github.com/waterprofessor)
 - Linkedin: [https://linkedin.com/in/waterpro/](https://linkedin.com/in/waterpro/)
 - Twitter: @wwttec
-{% twitter https://twitter.com/wwttec/ %}
+{% twitter https://twitter.com/jakevdp/status/1204765621767901185?s=20 %}
 
 
 [^1]: Disclaimer - This is not an investment advice. 
