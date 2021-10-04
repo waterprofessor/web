@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Prof. Tang](/images/tang.jpg){: height=100 style="float:right; padding:16px"}
+![Prof. Tang]({{ site.baseurl }}/images/tang.jpg){: height=80 style="float:right; padding:16px"}
 ## Research
 ### Water and Wastewater Engineering
 With 20+ years of training and practical experience on experimental chemistry and web-lab explorations of enhanced processes for water and wastewater engineering, I have developed research interests and publication records in the following fields of water and wastewater engineering: 
