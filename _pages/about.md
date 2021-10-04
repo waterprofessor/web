@@ -43,7 +43,7 @@ I always welcome motivated, curious, and diligent students of different academic
 - Github: [https://github.com/waterprofessor](https://github.com/waterprofessor)
 - Linkedin: [https://linkedin.com/in/waterpro/](https://linkedin.com/in/waterpro/)
 - Twitter: @wwttec
-{% twitter https://twitter.com/jakevdp/status/1204765621767901185?s=20 %}
+{% twitter https://twitter.com/wwttec?ref_src=twsrc%5Etfw %}
 
 
 [^1]: Disclaimer - This is not an investment advice. 
