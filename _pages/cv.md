@@ -15,7 +15,6 @@ Email: [htang@iup.edu](mailto:htang@iup.edu)
 Tel: +1 (724) 357-7925; Fax: +1 (724) 357-2437  
 Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/web)
 
-<p style="text-align: right;">Update: October 4, 2021</p>
 
 ---
 
