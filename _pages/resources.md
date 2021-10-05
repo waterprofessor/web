@@ -23,7 +23,7 @@ If you are new to Prof. Tang's research, here is a compiled list of resources fo
 
 ## Academic Writing
 - [LaTex on Overleaf](http://overleaf.com)
-- [laTex Mathematics - Convert Sketch to Syntax](https://webdemo.myscript.com/views/math/index.html)
+- [LaTex Mathematics - Convert Sketch to Syntax](https://webdemo.myscript.com/views/math/index.html)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [Pandoc](https://pandoc.org/MANUAL.html) for managment of citations and generation of various output formats
 
