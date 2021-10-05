@@ -25,7 +25,9 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 | Degree | Program & University | Year |
 |-|-|-|
 | Ph.D. | Environmental Engineering, Penn State University, University Park | 2011 |
+|  | Dissertation:  “Disinfection byproduct precursors from wastewater organics: formation potential and influence of biological treatment processes”. (Co-advisors: Drs. Yuefeng Xie and John Regan) |  |
 | M.S. | Environmental Engineering, Penn State University, University Park | 2007 |
+|  | Thesis: "Prediction of clean-bed head loss in crumb rubber filters". |  |
 | Ph.D. | Water and Wastewater Engineering, Hunan University, China | 2004 |
 
 
@@ -184,6 +186,7 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 - HL Tang, Yuefeng F. Xie. Membrane bioreactor technology for wastewater reuse. Keystone Water Quality Manager, 2006, Oct-Dec, p.34.
 
 # Courses Taught
+
 | Semesters | Course Title | Credits | Level [^1] | Enrollment |
 | - | - | - | - | - |
 | Fall 2021 | Fluid Mechanics (ENVE 201 001) | 3 | U | 7 |
