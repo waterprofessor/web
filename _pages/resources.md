@@ -81,7 +81,7 @@ It is expected that students who consider joining Prof. Tang's research have com
 ### Water Resources Engineering
 - College Physics
 - Statics and Solid Mechanics
-- Fluid mechanics
+- Fluid Mechanics
 - Water Resources Engineering
 
 ### Integration of Data Science into Environmental Engineering and Finance
