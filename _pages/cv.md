@@ -54,7 +54,7 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 | 01/2005 - 08/2011 | Research Assistant | Dept. of Civil and Environmental Engineering, Penn State University, University Park, PA |
 
 # Peer-Reviewed Publications
-*The # sign appears after my student names. The * sign appears after my name, if I am the corresponding author of the paper.*
+*The # sign appears after student names. The * sign appears after Prof. Tang's name, if he is the corresponding author of the paper.*
 1. Wang, W.; Xie, Y.F.; Tang, H.L.* The haloacetic acid leap in effluent of a biologically active carbon filter experiencing a disinfectant switch. *Chemosphere*, **2020**, 244, 125435. DOI: [10.1016/j.chemosphere.2019.125435](http://doi.org/10.1016/j.chemosphere.2019.125435)
 1. Zhu, S. #; Yu, J.; Stewart, T.C.#; Tang, H.L.* Modeling and Interpretation of Membrane Capacitive Deionization Responses to Different Salt Load. *AWWA Water Science*, **2019**, 1(6), e1166.  DOI: [10.1002/aws2.1166](http://doi.org/10.1002/aws2.1166)
 1. Huang, K.Z. #, Tang, H.L.* Temperature and desorption mode matter in capacitive deionization process for water desalination. *Environmental Technology*, **2019**. DOI: [10.1080/09593330.2019.1611941](http://doi.org/10.1080/09593330.2019.1611941)
@@ -186,8 +186,9 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 - HL Tang, Yuefeng F. Xie. Membrane bioreactor technology for wastewater reuse. Keystone Water Quality Manager, 2006, Oct-Dec, p.34.
 
 # Courses Taught
+## Independent Teaching
 
-| Semesters | Course Title | Credits | Level [^1] | Enrollment |
+| Semesters [^1] | Course Title | Credits | Level [^2] | Enrollment |
 | - | - | - | - | - |
 | Fall 2021 | Fluid Mechanics (ENVE 201 001) | 3 | U | 7 |
 |  | Environmental Aquatic Chemistry Lecture (ENVE 301 A01) | 3 | U | 11 |
@@ -204,12 +205,52 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 |  | Environmental Aquatic Chemistry Lecture (ENVE 301 A01) | 3 | U | 4 |
 |  | Environmental Aquatic Chemistry Laboratory (ENVE 301 A02) | 1 | U | 4 |
 |  | Water and Wastewater Treatment (ENVE 461 A01) | 3 | U | 3 |
-| Spring 2020 | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
+| Spring 2020 | General Chemistry I Lecture (CHEM 111 A01) | 3 | U | 74 |
+|  | General Chemistry I Laboratory (CHEM 111 A04) | 1 | U | 20 |
+|  | General Chemistry I Laboratory (CHEM 111 A05) | 1 | U | 11 |
+|  | Environmental Engineering Design (ENVE 498) | 3 | U | 4 |
+| Fall 2019 | General Chemistry I Laboratory (CHEM 111 A04) | 1 | U | 24 |
+|  | General Chemistry I Laboratory (CHEM 111 A05) | 1 | U | 19 |
+|  | General Chemistry I Laboratory (CHEM 111 A10) | 1 | U | 23 |
+|  | Solid and Hazardous Waste Management (ENVE 471) | 3 | U | 6 |
+| Spring 2019 | General Chemistry I Lecture (CHEM 111 A01) | 3 | U | 86 |
+|  | Environmental Aquatic Chemistry Lecture (ENVE 301 A01) | 3 | U | 5 |
+|  | Environmental Aquatic Chemistry Lab (ENVE 301 A02) | 1 | U | 5 |
+|  | Water and Wastewater Treatment (ENVE 461 A01) | 3 | U | 3 |
+| Fall 2018 | General Chemistry I Lecture (CHEM 111 A02) | 3 | U | 53 |
+|  | General Chemistry I Laboratory (CHEM 111 A10) | 1 | U | 23 |
+|  | General Chemistry I Laboratory (CHEM 111 A12) | 1 | U | 23 |
+|  | Environmental Aquatic Chemistry Lecture (ENVE 301 A01) | 3 | U | 3 |
+|  | Environmental Aquatic Chemistry Lab (ENVE 301 A02) | 1 | U | 3 |
+|  | Independent Study (BIOC 482) | 1-2 | U | 1 |
+| Spring 2018 | General Chemistry I Lecture (CHEM 111 A02) | 3 | U | 82 |
+|  | General Chemistry I Laboratory (CHEM 111 A06) | 1 | U | 23 |
+|  | Water Quality Chemistry (CHEM 481/581 A01) | 3 | U/G | 8 |
+| Fall 2017 | General Chemistry I Lecture (CHEM 111 A02) | 3 | U | 78 |
+|  | General Chemistry I Laboratory (CHEM 111 A07) | 1 | U | 23 |
+|  | General Chemistry I Laboratory (CHEM 111 A16) | 1 | U | 17 |
+|  | Internship Experience (CHEM 799) | 1-2 | G | 1 |
+| Spring 2017 | General Chemistry II Laboratory (CHEM 112 A04) | 1 | U | 19 |
+|  | General Chemistry II Laboratory (CHEM 112 A09) | 1 | U | 18 |
+|  | Independent Study (CHEM 690) | 1-2 | G | 1 |
+| Fall 2016 | General Chemistry I Laboratory (CHEM 111 A09) | 1 | U | 24 |
+|  | Environmental Chemistry (CHEM 481/581) | 3 | U/G | 5 |
+| Spring 2016 | Senior Design/Research (CE 10071) | 3 | U | 5 |
+| Fall 2015 | Introduction to Water and Wastewater Engineering (CE 06015) | 3 | U | 77 |
+| Spring 2015 | Senior Design/Research (CE 10071) | 3 | U | 3 |
+|  | Senior Internship (CE 10050) | 3 | U | 99 |
 
-[^1]: U - undergraduate level; G - graduate level
+
+[^1]: From Spring 2015 to Spring 2016, Prof. Tang was teaching at Hunan University
+[^2]: U - undergraduate level; G - graduate level
+
+## Teaching as a Teaching Assistant at Penn State
+- Environmental Science (BISC 003, Spring 2012)
+- Environmental Chemistry and Analysis (ENVE 301, Fall 2008)
+- Operation and Control of Treatment Systems (ENVE 413W, Fall 2011, 2010)
+- Hazardous Waste Management (ENVE 425, Spring 2012)
+- Physical Chemical Processes (CE571, Spring 2008)
+- Research Topics (ENVE 594, Spring 2010)
 
 # Review
 *Ad-hoc reviewer of 200+ manuscripts for 30+ academic journals and book publishers*
@@ -355,14 +396,14 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 - Meng Huang (03/2015 – 06/2016; Next placement: Master’s student at Tongji University, Shanghai, China)
 - Sijun Zhou (03/2015 – 06/2016; Next placement: Master’s student at the University of California, Irvine, California)
 
-# Student Presentations
-## Student Podium Presentations
+## Student Presentations
+### Student Podium Presentations
 - Savannah Mitchell, HL Tang. “Effect of plant cover in reducing non-point source pollution”, in IUP Undergraduate Scholars Forum, April 3, 2019.
 - Alvyn Berg, HL Tang. “Determining best practices for swimming pool chlorination”, in the second part of the Presenter Pizza Series for the 2018 RESS program, Indiana University of Pennsylvania, July 13, 2018. 
 - Stephen M. Long, HL Tang. “Disinfection byproduct precursor removal by membrane bioreactors”, in Chemistry Department Seminar Series, Indiana University of Pennsylvania, February 26, 2018. 
 - Adil Alsaiari, HL Tang. “Removal of halides by acid mine drainage treatment processes”, in Chemistry Department Seminar Series, Indiana University of Pennsylvania, May 1, 2017.
 - Kuan Huang, HL Tang, Yuefeng Xie. “Kinetic Modeling of Capacitive Deionization Systems for Water Desalination”, in the 3rd New England Graduate Student Water Symposium (NEGSWS 2016), University of Massachusetts, Amherst, MA, USA, September 9-11, 2016.
-## Student Poster Presentations
+### Student Poster Presentations
 - Ting-An Fang, Alvyn Berg, HL Tang.  “Variability of residual chlorine in swimming pool water and determination of chlorine consumption for maintaining hygienic safety of bathers with a simple mass balance model”, IUP Undergraduate Scholars Forum, April 3, 2019.
 - Sarah Smallwood, HL Tang. “Evaluation of Rainwater for Potable and Non-Potable Uses”, IUP Undergraduate Scholar’s Forum, April 3, 2019.
 - Alvyn Berg, Ting-An Fang, HL Tang. "Variability of residual chlorine in swimming pool water and determination of required chlorine for hygienic safety of pool users", in 2018 RESS Forum, Indiana University of Pennsylvania, August 9, 2018. 
