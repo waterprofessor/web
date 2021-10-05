@@ -4,6 +4,10 @@ layout: page
 title: CV
 permalink: /cv/
 ---
+> "Summary"
+
+- toc:true- branch: master
+
 
 # Hao Larry Tang, Ph.D., P.E.
 Associate Professor of Environmental Engineering  
@@ -24,9 +28,9 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 | Degree | Program & University | Year |
 | - | - | - |
 | Ph.D. | Environmental Engineering, Penn State University, University park | 2011 |
-| | Ph.D. Dissertation: "Disinfection byproduct precursors from wastewater organics: formation potential and influence of biological treatment processes". (Co-advised by Drs. Yuefeng Xie and John Regan) | |
+| - | Ph.D. Dissertation: "Disinfection byproduct precursors from wastewater organics: formation potential and influence of biological treatment processes". (Co-advised by Drs. Yuefeng Xie and John Regan) | |
 | M.S. | Environmental Engineering, Penn State University, University Park | 2007 |
-| | M.S. Thesis: "Prediction of clean-bed head loss in crumb rubber filters". | |
+| - | M.S. Thesis: "Prediction of clean-bed head loss in crumb rubber filters". | |
 | B.S. | Water and Wastewater Engineering, Hunan University, China | 2004 |
 
 
