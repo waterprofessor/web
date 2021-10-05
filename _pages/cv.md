@@ -315,27 +315,31 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 
 ## Previous Members
 
-*At Indiana University of Pennsylvania*
-### Master's Students
+### At Indiana University of Pennsylvania
+
+#### Master's Students
 - Adil Alsaiari (08/2016 – 12/2017; Next placement: Environmental Chemist in an environmental laboratory in Saudi Arabia)
 - Jinxi Du (05/2017 – 08/2017; Next placement: Adjunct Professor at Penn State Schuylkill, Schuylkill Haven, Pennsylvania)
 - Stephen M. Long (01/2018 – 05/2018; Next placement: Ph.D. Student at West Virginia University, Morgantown, West Virginia)
-### Undergraduate Students
+
+#### Undergraduate Students
 - Ty C. Stewart (01/2018 – 05/2018; Next placement: Master’s Student at Arizona State University, Tempe, Arizona)
 - Alvyn P. Berg (05/2018 – 05/2019; Next placement: Student at University of Pittsburgh, Pittsburgh, Pennsylvania)
 - Ting-An Fang (05/2018 – 05/2019; Next placement: Master’s Student at University of Pittsburgh, Pittsburgh, Pennsylvania)
-### Visiting Scholar
+
+#### Visiting Scholar
 - Dr. Yajuan Mu (Associate Professor, Hebei University, 01/2017-05/2017)
 
-*At Penn State Harrisburg*
-### Master's Students (Co-advised)
+### At Penn State Harrisburg
+#### Master's Students (Co-advised)
 - Kuan Z. Huang (08/2016 – 05/2018; Next placement: Ph.D. Student at Case Western Reserve University, Cleveland, Ohio)
 - Linlin Tang (08/2016 – 05/2018; Next placement: Consulting Engineer at an environmental consulting company in China)
 
-*At Hunan University*
-### Master's Students (Co-advised)
+### At Hunan University
+#### Master's Students (Co-advised)
 - Siyu Zhu (09/2017 – 06/2019; Next placement: Consulting Engineer at an environmental consulting company in China)
-### Undergraduate Students
+
+#### Undergraduate Students
 - Kuan Z. Huang (10/2014 - 06/2016; Next placement: Master’s Student at Penn State Harrisburg, Middletown, Pennsylvania)
 - Danyang Liu (10/2014 – 06/2016; Next placement: Master’s Student at Tsinghua University, Beijing, China)
 - Leijie Xie (10/2014 – 06/2016; Next placement: Consulting Engineer at an environmental consulting company in China)
