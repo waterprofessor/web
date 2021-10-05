@@ -1,6 +1,6 @@
 ---
 toc: true
-layout: page
+layout: post
 title: CV
 permalink: /cv/
 ---
@@ -266,7 +266,7 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 # Representative Service
 ## Discipline
 - Scholarship Committee Chair, Water Works Operators’ Association of Pennsylvania (2018 - 2021)
-- Scholarship Committee Member, Water Works Operators’ Association of Pennsylvania (2017-2018, 2021 - ))
+- Scholarship Committee Member, Water Works Operators’ Association of Pennsylvania (2017-2018, 2021 - )
 - Founding Webmaster, Chinese-American Professors in Environmental Engineering and Science (2007-2017)
 - Ad-hoc reviewer for 20+ academic journals and book publishers
 - NSF Panelist, Environmental Engineering, National Science Foundation (2019)
