@@ -71,7 +71,7 @@ If you are new to Prof. Tang's research, here is a compiled list of resources fo
     - [Another book on Data Science: Learn R and Python in Parallel](https://www.anotherbookondatascience.com)
 
 ## Pre-requisites
-It is expected that students who consider joining Prof. Tang's research have completed or concurrently taking the following courses for the following research fields: 
+It is expected that students who consider joining Prof. Tang's research have completed or are concurrently taking the following courses for the following research fields: 
 
 ### Water and Wastewater Engineering
 - General Chemistry
