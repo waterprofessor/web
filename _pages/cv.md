@@ -1,13 +1,8 @@
 ---
-toc: true
 layout: page
 title: CV
 permalink: /cv/
 ---
-> "Summary"
-
-- toc:true- branch: master
-
 
 # Hao Larry Tang, Ph.D., P.E.
 Associate Professor of Environmental Engineering  
@@ -34,9 +29,9 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 | B.S. | Water and Wastewater Engineering, Hunan University, China | 2004 |
 
 
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
+| Degree | Program & University | Year |
+|-|-|-|
+| Ph.D.  | Environmental Engineering, Penn State University, University Park | 2011 |
 
 
 # Professional Registration
