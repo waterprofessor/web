@@ -1,7 +1,5 @@
 ---
 toc: true
-branch: master
-badges: true
 layout: page
 title: CV
 permalink: /cv/
@@ -23,11 +21,12 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 ---
 
 # Education
+
 | Degree | Program & University | Year |
 |-|-|-|
 | Ph.D. | Environmental Engineering, Penn State University, University Park | 2011 |
 | M.S. | Environmental Engineering, Penn State University, University Park | 2007 |
-| B.S. | Water and Wastewater Engineering, Hunan University, China | 2004 |
+| Ph.D. | Water and Wastewater Engineering, Hunan University, China | 2004 |
 
 
 # Professional Registration
@@ -40,6 +39,7 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 - Aquarium water engineering for minimization of water footprints and environmental concerns of aquaculture
 
 # Professional Experience
+
 | Year | Title | Affiliation |
 | - | - | - |
 | 08/2021 - Present | Associate Professor | Environmental Engineering Program, Indiana University of Pennsylvania, Indiana, PA |
