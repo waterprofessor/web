@@ -20,7 +20,7 @@ Noticing that many contents in the traditional environmental engineering texts a
 - Develop models for rainfall-runoff analysis
 - Solve pipe flow problems in a network of water distribution system
 
-### Finance
+### Financial Engineering
 
 Be aware of the fact that the algorithmic trading world in general is secretive and that almost everyone who is succussful is naturally reluctant to share their secrets in order to protect their sources of success. From practical point of view, there is no choice but learn and generate your own edge in today's competitive financial and cryptocurrency markets. With the fascinating fields of Python and Machine Learning systematically combined, Prof. Tang is striving to:  
 
