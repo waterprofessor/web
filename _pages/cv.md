@@ -28,7 +28,7 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 |  | Dissertation:  “Disinfection byproduct precursors from wastewater organics: formation potential and influence of biological treatment processes”. (Co-advisors: Drs. Yuefeng Xie and John Regan) |  |
 | M.S. | Environmental Engineering, Penn State University, University Park | 2007 |
 |  | Thesis: "Prediction of clean-bed head loss in crumb rubber filters". |  |
-| Ph.D. | Water and Wastewater Engineering, Hunan University, China | 2004 |
+| B.S. | Water and Wastewater Engineering, Hunan University, China | 2004 |
 
 
 # Professional Registration
