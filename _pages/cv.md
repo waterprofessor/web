@@ -16,7 +16,7 @@ Email: [htang@iup.edu](mailto:htang@iup.edu)
 Tel: +1 (724) 357-7925; Fax: +1 (724) 357-2437  
 Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/web)
 
-<p style="text-align: right;">Last Update: October 4, 2021</p>
+<p style="text-align: right;">Last Update: November 4, 2021</p>
 
 ---
 
@@ -94,10 +94,8 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 - Research on optimization of capacitive deionization technology for water desalination. Project No. 1390501914. (PI: HL Tang). Minn Water LLC, Minneapolis, Minnesota. (2013-2015)
 - Study on the formation mechanism of fat, oil and grease (FOG) deposits in sewer lines (PI: HL Tang). Hunan University, Changsha, Hunan, China (2015-2016)
 
-## Grant Proposals Under Review
-- Integrating Essential Data-Science Skills to Enhance Environmental Engineering Education (PI: HL Tang), DUE - IUSE Program, National Science Foundation, 2021. $293,062
-
 ## Recent Grant Proposals Submitted but Not Funded
+- Integrating Essential Data-Science Skills to Enhance Environmental Engineering Education (PI: HL Tang), DUE - IUSE Program, National Science Foundation, 2021. $293,062
 - CAREER: Ensuring public health in swimming pools: An integration of machine learning into applications of water disinfection and control of disinfection byproducts (PI: HL Tang). CAREER Program, National Science Foundation, 2020. $552,631
 - CAREER: Aquarium water chemistry, treatment, and engineering advancement (PI: HL Tang). CAREER Program, National Science Foundation, 2019. $499,982
 - Investigations of low voltage adsorptive desalination and selectively oxidative desalination technologies for produced water treatment (PI: HL Tang). Department of the Interior, Bureau of Reclamation, Desalination and Water Purification Research Program for fiscal year (FY) 2019. $239,838
@@ -122,6 +120,9 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 - 2003: Third Place Award, Hunan University English Speech Contest
 - 2001: Third Place Award, National English Contest for College Students of China
 - 2001-2003: Hunan University Scholarship for Academic Excellence
+
+# Media Report
+- Interview article published on Journal AWWA, Volume 113, Issue 9, November 2021, Pages 16-18. [https://doi.org/10.1002/awwa.1802](https://doi.org/10.1002/awwa.1802)
 
 # Scholarly Activities
 ## Oral Presentations
