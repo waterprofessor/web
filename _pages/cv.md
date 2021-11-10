@@ -7,7 +7,7 @@ permalink: /cv/
 
 # Hao Larry Tang, Ph.D., P.E.
 Associate Professor of Environmental Engineering  
-Environmental Engineering Program  
+Environmental Engineering Program Coordinator
 Department of Chemistry, Biochemistry, Physics, and Engineering  
 975 Oakland Ave, 139 Weyandt Hall  
 Indiana University of Pennsylvania  
