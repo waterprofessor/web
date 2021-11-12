@@ -270,6 +270,7 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 - Colloids and Surfaces B: Biointerfaces
 - Desalination and Water Treatment
 - Ecotoxicity and Environmental Safety
+- Environmental Advances
 - Environmental Health Insights
 - Environmental Pollution
 - Environmental Research
