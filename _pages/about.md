@@ -11,18 +11,18 @@ With 20+ years of training and practical experience on experimental chemistry an
 
 - Physicochemical procsses with emphases on water desalination and disinfection byproducts control
 - Innovative applications of sustainable environmental processes to address challenging issues (shale gas produced water, acid mine drainage, swimming pool water, rainfall and runoff, etc.) for public health protection and industry stewardship
-- Intelligent modeling with machine learning techniques for prediction of process performances
+- Intelligent modeling with machine learning techniques for performance predictions, anomaly detections, material discoveries, and finding interpretations
 - Aquarium water engineering for minimization of water footprints and environmental concerns of aquaculture
 
 ### Water Resources Engineering
 Noticing that many contents in the traditional environmental engineering texts are outdated, Prof. Tang is in the process of writing a lab manual for Water Resources Engineering course. Students will be trained to use Python to analyze data, develop models, and solve problems in the domain of Water Resources Engineering. The lab topics include but are not limited to the following: 
 
-- Develop models for rainfall-runoff analysis
+- Develop data-driven models for rainfall-runoff analysis
 - Solve pipe flow problems in a network of water distribution system
 
 ### Financial Engineering
 
-Be aware of the fact that the algorithmic trading world in general is secretive and that almost everyone who is succussful is naturally reluctant to share their secrets in order to protect their sources of success. From practical point of view, there is no choice but learn and generate your own edge in today's competitive financial and cryptocurrency markets. With the fascinating fields of Python and Machine Learning systematically combined, Prof. Tang is striving to:  
+Be aware of the fact that the algorithmic trading world in general is secretive and that almost everyone who is succussful is naturally reluctant to share their secrets in order to protect their sources of success. From practical point of view, there is no choice but learn and generate your own edge in today's competitive financial and cryptocurrency markets. With the fascinating fields of Python and Machine Learning systematically combined, it is Prof. Tang's interest to  
 
 - Develop robust algorithmic trading strategies
 - Develop an AI investor
@@ -31,7 +31,7 @@ His algorithms and strategies will be posted for you to back-test[^1]. Subscribe
 
 ## Teaching
 
-Prof. Tang has taught over 20 courses in Environmental Engineering, Chemistry, and Physics. A detailed teaching portfolio can be found in the [CV](/web/cv/) page. During the present Fall 2021 semester, he teaches Fluid Mechanics (ENVE 201), Environmental Aquatic chemistry (Lecture and Lab) (ENVE 301), Water and Wastewater Treatment (ENVE 461), and Problems in Chemistry (CHEM 498). His office hours are: *M 1:20-1:50pm & 2:40-4:05pm; W 1:20-1:50pm & 2:40-4:05pm; R 1:50-2:30pm; and F 1:20-1:50pm*. To join a virtual meeting on Zoom with him during these times, click [http://iupvideo.zoom.us/j/9106365162](http://iupvideo.zoom.us/j/9106365162). 
+Prof. Tang has taught over 20 courses in Environmental Engineering, Chemistry, and Physics. A detailed teaching portfolio can be found in the [CV](/web/cv/) page. During the present Spring 2022 semester, he teaches Water Resources Engineering (Lecture and Lab) (ENVE 311), Solid and Hazardous Waste Management (ENVE 471), and Environmental Engineering Design (ENVE 498). His office hours are: *M 7:50-8:50P, T 3:35-4:50P & 7:50-8:50P, W 10:00-11:15A & 4:50-5:20P*. You could make an appointment with him for a virtual meeting on Zoom during these times, click [http://iupvideo.zoom.us/j/9106365162](http://iupvideo.zoom.us/j/9106365162). 
 
 ## Group
 
