@@ -16,7 +16,7 @@ Email: [htang@iup.edu](mailto:htang@iup.edu)
 Tel: +1 (724) 357-7925; Fax: +1 (724) 357-2437  
 Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/web)
 
-<p style="text-align: right;">Last Update: November 9, 2021</p>
+<p style="text-align: right;">Last Update: January 13, 2022</p>
 
 ---
 
@@ -37,7 +37,7 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 # Research Interests
 - Physical, chemical, and biological processes with emphasis on water desalination and disinfection byproducts control in the areas of environmental aquatic chemistry and water quality
 - Innovative applications of sustainable environmental processes to address challenging issues (produced water, acid mine drainage, swimming pool water, rainfall and runoff) for public health protection and industry stewardship
-- Intelligent modeling with machine learning techniques for performance prediction of environmental technologies
+- Intelligent modeling with machine learning techniques for making performance forecasts, detecting system anomalies, discovering new materials, and interpreting data-driven findings
 - Aquarium water engineering for minimization of water footprints and environmental concerns of aquaculture
 
 # Professional Experience
@@ -191,6 +191,10 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 
 | Semesters [^1] | Course Title | Credits | Level [^2] | Enrollment |
 | - | - | - | - | - |
+| Spring 2022 | Water Resources Engineering Lecture (ENVE 311 A01) | 3 | U | 11 |
+|  | Water Resources Engineering Laboratory (ENVE 311 A02) | 1 | U | 11 |
+|  | Solid and Hazardous Waste Management (ENVE 471 A01) | 3 | U | 7 |
+|  | Environmental Engineering Design (ENVE 498 A01) | 3 | U | 7 |
 | Fall 2021 | Fluid Mechanics (ENVE 201 001) | 3 | U | 7 |
 |  | Environmental Aquatic Chemistry Lecture (ENVE 301 A01) | 3 | U | 11 |
 |  | Environmental Aquatic Chemistry Laboratory (ENVE 301 A02) | 1 | U | 11 |
@@ -289,6 +293,7 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 - Journal of Water Supply: Research & Technology – AQUA
 - Microchemical Journal
 - Science of the Total Environment
+- Scientific Reports
 - The Extractive Industries and Society
 - Water Environment Research
 - Water and Environment Journal
