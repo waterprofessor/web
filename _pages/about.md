@@ -27,7 +27,7 @@ Be aware of the fact that the algorithmic trading world in general is secretive 
 - Develop robust algorithmic trading strategies
 - Develop an AI investor
 
-His algorithms and strategies will be posted for you to back-test[^1]. Subscribe to the RSS feeds for not missing out important info that may become your edge one day!
+His research draws from a variety of data sources, including the [Alpha Vantage Stock API](https://www.alphavantage.co). 
 
 ## Teaching
 
