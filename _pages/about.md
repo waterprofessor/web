@@ -45,6 +45,3 @@ Prof. Tang always welcomes motivated, curious, and diligent students of differen
 - Linkedin: [https://linkedin.com/in/waterpro/](https://linkedin.com/in/waterpro/)
 - Twitter: @wwttec
 {% twitter https://twitter.com/wwttec?ref_src=twsrc%5Etfw %}
-
-
-[^1]: Disclaimer - This is not an investment advice. 
