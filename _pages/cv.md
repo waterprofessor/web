@@ -16,7 +16,7 @@ Email: [htang@iup.edu](mailto:htang@iup.edu)
 Tel: +1 (724) 357-7925; Fax: +1 (724) 357-2437  
 Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/web)
 
-<p style="text-align: right;">Last Update: January 13, 2022</p>
+<p style="text-align: right;">Last Update: July 13, 2022</p>
 
 ---
 
@@ -105,6 +105,7 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 - Smartphones and environmental education – Use of smartphones for analysis of abandoned mine drainage (PI: HL Tang; Co-PI: Sanda Andrada Maicaneanu). Environmental Education Grants program, Pennsylvania Department of Environmental Protection, 2016. $3,000
 
 # Honors and Awards
+- 2022: Graduate Deans Award for Outstanding Commitment to Sponsored Programs
 - 2020: FESE’s Best Papers of 2019
 - 2019: Recognition of 2018 Scholarship Achievement, the President’s Office, Indiana University of Pennsylvania
 - 2017: 2016 Excellence in Review Award for Frontiers of Environmental Science & Engineering (FESE)
@@ -338,7 +339,7 @@ Website: [http://waterprofessor.github.io/web](http://waterprofessor.github.io/w
 - Member, Chemistry Teaching Circle (2016-18)
 
 ### Program Level
-- Web Maintainer, Environmental Engineering Program
+- Coordinator & Web Maintainer, Environmental Engineering Program
 - Facilitator, Student exchange program between Indiana University of Pennsylvania and - University of Electronic Science and Technology of China (UESTC)
 - Organizer, Environmental Engineering Advisory Board meeting
 - Facilitator, Environmental Engineering Seminar Series
